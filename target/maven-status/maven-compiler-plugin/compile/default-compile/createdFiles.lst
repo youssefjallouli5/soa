@@ -1,0 +1,7 @@
+entities\Option.class
+ressourcerest\restOption.class
+entities\EtudiantList.class
+utilities\restActivator.class
+entities\Etudiant.class
+metiers\EtudiantBusiness.class
+metiers\OptionBusiness.class
